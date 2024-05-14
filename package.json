@@ -1,5 +1,5 @@
 {
-  "name": "@unswer/browser",
+  "name": "unswer",
   "version": "0.0.0",
   "description": "Official JavaScript (browser) library for Unswer integration",
   "main": "dist/index.js",
